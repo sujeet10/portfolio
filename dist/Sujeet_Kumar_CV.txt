@@ -1,0 +1,175 @@
+SUJEET KUMAR
+Salesforce Developer | Marketing Cloud | Agentforce Developer | Salesforce Certified 5X | Star Ranger 4X Superbadges | Web Developer
+Noida, Uttar Pradesh, India
+8804157173 | sujeetkumar06043@gmail.com | linkedin.com/in/sujeetkumar06043
+
+PROFESSIONAL SUMMARY
+====================
+Salesforce Developer with 3.6 years of experience building scalable CRM solutions across the Salesforce ecosystem. 
+Strong expertise in Lightning Web Components (LWC), Apex, Triggers, Batch, and Queueable, enabling efficient and high-performing applications. 
+Hands-on experience with Salesforce Marketing Cloud (SFMC), including Journey Builder, Automation Studio, and Email Studio. 
+Data Cloud implementations focusing on data integration, unification, and real-time insights. 
+Agentforce AI-driven automation solutions including agent actions, flows, and intelligent case handling. 
+REST and SOAP API integrations with external systems. Passionate about clean, scalable code and continuous system performance improvement.
+
+TECHNICAL SKILLS
+===============
+Salesforce Core Technologies:
+- Apex: Triggers, Batch Apex, Test Classes, Schedulable Apex, Queueable Apex
+- Lightning Web Components (LWC): Custom components, event handling, data binding
+- Visualforce Pages: Custom UI development, controller extensions
+- Flows: Record-Triggered Flows, Screen Flows, Auto-Launched Flows
+- SOQL/SOSL: Query optimization, data retrieval, bulk operations
+- Security: Profiles, Roles, Permission Sets, Sharing Rules, Field-Level Security
+
+Salesforce Cloud Platforms:
+- Sales Cloud: Opportunity management, lead conversion, sales automation
+- Service Cloud: Case management, knowledge base, service console
+- Marketing Cloud (SFMC): Journey Builder, Email Studio, Automation Studio, Contact Builder, Data Extensions
+- Data Cloud: Customer data integration, unification, real-time insights
+- Experience Cloud: Partner portals, customer portals, community sites
+- Agentforce: AI-driven automation, SDR Agent, Service Agent, Prompt Builder, Agent Actions
+
+Integration & Development:
+- REST/SOAP API: External system integrations, callouts, web services
+- Salesforce DX (SFDX): Source-driven development, scratch orgs, packaging
+- Git/GitHub: Version control, branching strategies, collaborative development
+- Tools: VS Code, Postman, Workbench, Data Loader, Change Sets
+
+WORK EXPERIENCE
+===============
+Salesforce Developer | SaasWorx Consulting | 2022 - Present
+Company Location: Express Trade Towers 2, Floor S2, Unit # 200, Urbtech Trade Towers, Tower A, adjacent to Delhi Public School, Sector 132, Noida, Uttar Pradesh 201304
+Website: https://saasworx.ai/
+
+Key Responsibilities:
+- Designed and developed scalable Salesforce solutions using Apex, LWC, and Visualforce
+- Implemented Marketing Cloud automation with Journey Builder and Email Studio
+- Built Agentforce AI-driven solutions including SDR Agent and Service Agent implementations
+- Created Data Cloud integrations for unified customer data and real-time insights
+- Developed REST/SOAP API integrations with external systems
+- Optimized system performance through query optimization and automation improvements
+- Managed deployments using Salesforce DX and Git workflows
+- Provided technical leadership and mentoring for junior developers
+
+PROJECTS
+========
+Current Projects - Sinch India
+Description: Sinch India provides a powerful WhatsApp solution for personalized and automated customer engagement. As a Salesforce Developer in the Provisioning Team, my role involved implementing assigned user stories to develop and enhance platform functionality.
+Technologies: Sales Cloud, Visualforce Pages, LWC, Validation Rules, Object Management, Test Classes, Flows
+Responsibilities:
+- Implemented complete CRM workflows for Lead and Opportunity Management
+- Developed multiple LWC components for various client requirements
+- Implemented Flow, VF Pages and test classes
+
+Bajaj Auto Credit Finance (BACFL)
+Description: Bajaj Auto Credit Limited is a wholly owned NBFC subsidiary of Bajaj Auto Ltd, focused on financing Bajaj vehicles. As a Developer I developed Agent IT HelpDesk.
+Technologies: Data Cloud, Sales Cloud, Apex, Visualforce Pages, Email Templates, LWC, Validation Rules, Object Management, Flows, Custom Topic, Custom Action, Agentforce
+Responsibilities:
+- Implemented Agent IT HelpDesk
+- Developed Custom Action
+- Created and managed case management
+- Utilized Apex and Visualforce for custom development
+
+Piramal Realty (AgentForce)
+Description: Piramal Realty develops real estate projects focused on quality, safety and customer-centric design. I developed a comprehensive Visualforce pages and Marketing Cloud.
+Technologies: Sales Cloud, Visualforce Pages, LWC, Validation Rules, Object Management, Test Classes, Flows, Approval Process
+Responsibilities:
+- Implemented Visualforce pages
+- Managing end-to-end development of Salesforce applications
+- Implemented Marketing Cloud, utilized tools like Email Studio, Journey Builder and Contact Builder to design and execute customer journey
+- Handling email creation, contact data structuring and automated campaign flows
+
+Hans Product - Agentforce
+Description: Developed and implemented a Salesforce Service Agent to manage customer queries and service requests.
+Responsibilities:
+- Enabled automatic lead creation from customer interactions
+- Integrated PDF-based FAQ knowledge articles for instant responses to common product and service questions
+- Guided customers through order and service processes, capturing essential follow-up details
+- Configured custom actions, instructions, and role descriptions for smooth service workflows
+- Integrated Data Cloud for enriched customer and order data
+- Deployed the agent in the Salesforce org for end-to-end service automation
+
+QRC Valves - Agentforce
+Description: Implemented SDR Agent in Salesforce for QRC Valves to automate Account, Contact, and Opportunity management.
+Responsibilities:
+- Configured region-based quote filters: LATAM >= $20K, others >= $50K
+- Set up 2-step nudge email follow-ups during business hours
+- Enabled PDF-based FAQ responses for customer queries
+- Automated task creation for Inside Sales reps based on interactions
+- Configured opportunity stage updates driven by customer responses
+- Enhanced the agent to auto-reply with PDF FAQs when customers respond in the same email thread
+- Integrated Data Cloud for enriched customer and opportunity data
+
+eTaxServices - Agentforce
+Description: Developed a Salesforce Service Agent to handle tax-related client queries and service requests.
+Responsibilities:
+- Enabled automatic lead creation from client interactions
+- Integrated FAQ knowledge articles to answer common tax service questions
+- Guided clients through service requirements and captured necessary follow-up details
+- Configured custom actions, instructions, and role descriptions for optimized service flow
+- Set up Data Cloud integration for enriched client data
+- Deployed the agent in the Salesforce org for end-to-end service automation
+
+IFP - Agentforce
+Description: Implemented and configured Agentforce in Salesforce for an employee-facing agent.
+Responsibilities:
+- Built functionality to create and update Contacts, Opportunities, Accounts, Tasks, and Activities
+- Developed custom actions and instructions to support employee workflows
+- Updated role descriptions in line with the agent's capabilities
+- Configured email notifications to trigger on Opportunity creation
+- Fully deployed the agent in the Salesforce org for automated sales process support
+
+GVK - Agriculture Support
+Description: GVK is an organization that trains and supports farmers in villages for better agriculture practices. I developed a comprehensive Visualforce pages and LWC components.
+Technologies: Flows, LWC Components, Batch classes, Test classes, Visualforce, Sales Cloud
+Responsibilities:
+- Configuring and customizing Salesforce Objects
+- Built interactive lightning web components
+- Implemented validation rules and flows
+
+Adissia - Real Estate
+Description: Adissia is a premier real estate company, specializing in luxurious residential plots in prime locations. I developed a comprehensive Visualforce pages, LWC components, Email Templates.
+Technologies: Apex Classes, Test classes, Sales Cloud, LWC Components, Email Templates, Visualforce Pages
+Responsibilities:
+- Creating Email Templates
+- Implemented validation rules and flows
+- Utilized Apex and Visualforce for custom development
+
+Slattery Auctions - Asset Management
+Description: Slattery provides asset advisory valuations, auction services and delivering responsive customers services with dynamic commercial solutions across Australia and Asia Pacific. I developed a comprehensive Visualforce pages, LWC components.
+Technologies: Apex class, Test Classes, LWC, Visualforce Pages, Sales Cloud, Object Management
+Responsibilities:
+- Implemented Flows and Validation rules to automate business processes
+- Developed multiple Visualforce Pages for custom UI requirements
+- Implemented Lightning Web Components to enhance user experience
+
+EDUCATION
+========
+Master of Computer Applications (MCA) - Institute of Management Studies (IMS), Ghaziabad | 2019 - 2022
+- Post-graduate degree in Computer Applications with focus on advanced programming, database management, and software development
+- Built strong foundation in problem-solving and software development
+
+Bachelor of Computer Applications (BCA) - M D College, Patna | 2015 - 2018
+- Undergraduate degree in Computer Applications with foundation in software development, web technologies, and computer science fundamentals
+
+CERTIFICATIONS
+============
+- Salesforce Certified Platform Developer I (PD1) - 2022
+- Salesforce Certified Associate - 2021
+- Salesforce Certified AI Associate - 2023
+- Salesforce Certified AI Specialist - 2023
+- Salesforce Agentforce Specialist (Certified) - 2024
+- Big Data Analyst Certification - 2023
+
+ACHIEVEMENTS
+===========
+- Star Ranger - 4X Superbadges Completed
+- Salesforce Certified 5X - Multiple platform and AI certifications
+- 50+ Projects Completed - Diverse industry experience
+- Technical Leadership - Mentoring junior developers
+- Performance Optimization - Improved system efficiency by 30%
+
+REFERENCES
+==========
+Available upon request
