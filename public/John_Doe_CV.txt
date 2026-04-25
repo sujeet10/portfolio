@@ -1,0 +1,126 @@
+SUJEET KUMAR
+SALESFORCE DEVELOPER
+===================================
+
+8804157173 | sujeetkumar06043@gmail.com | linkedin.com/in/sujeetkumar06043
+
+PROFESSIONAL SUMMARY
+--------------------
+Salesforce Developer with 3+ years of experience in Apex, LWC, Flows, and REST/SOAP API integrations. 
+Skilled in SFDC, SFMC, and Agentforce, delivering scalable and AI-driven solutions. 
+Experienced in automation, system integration, and performance optimization across Sales and Service Cloud.
+
+TECHNICAL SKILLS
+---------------
+• Salesforce (SFDC): Apex, Triggers, Batch Apex, Test Classes, Lightning Web Components (LWC), Visualforce, Flows (Record-Triggered & Screen Flows), Validation Rules, Object Modeling, Security & Access Control (Profiles, Roles, Permission Sets), SOQL, SOSL, Sales Cloud, Service Cloud, Experience Cloud, REST/SOAP API Integration 
+• Salesforce Marketing Cloud (SFMC): Journey Builder, Automation Studio, Email Studio, Contact Builder, Data Extensions, Marketing Automation, Customer Segmentation 
+• Agentforce & AI: Agentforce, SDR Agent, Service Agent, Prompt Builder, Agent Actions, Salesforce Data Cloud, AI-driven Automation, Intelligent Workflows
+• Tools & Technologies: Git, GitHub, Salesforce DX (SFDX), VS Code, Change Sets, Workbench, Postman
+• CI/CD & DevOps: Version control, deployment pipelines, SFDX-based deployments, Git workflows
+
+WORK EXPERIENCE
+---------------
+Salesforce Developer | SaasWorx Consulting | 2022 - 31/12/2025
+Company Location: Express Trade Towers 2, Floor S2, Unit # 200, Urbtech Trade Towers, Tower A, adjacent to Delhi Public School, Sector 132, Noida, Uttar Pradesh 201304
+Website: https://saasworx.ai/
+
+• SFDC Development: Designed and developed scalable solutions using Apex, Triggers, Batch Apex, Schedulable Apex, Lightning Web Components (LWC), and Visualforce across Sales Cloud and Service Cloud. 
+• SFMC (Marketing Cloud): Worked on Salesforce Marketing Cloud (SFMC) including Journey Builder, Email Studio, Automation Studio, and data extensions to support marketing automation and customer engagement use cases. 
+• Agentforce & AI: Implemented Agentforce, Prompt Builder, and Agent Actions leveraging Salesforce Data Cloud to build AI-driven automation and intelligent service workflows. 
+• Automation: Built and optimized Flows (Record-Triggered, Screen Flows), Workflow Rules, and Process Automation to improve operational efficiency.
+• Integration: Developed REST/SOAP API integrations between SFDC, SFMC, and external systems, ensuring seamless data synchronization. 
+• Data Management: Utilized SOQL, SOSL, Data Loader, and data extensions (SFMC) for data querying, segmentation, and migration. 
+• Cloud Configuration: Configured Sales Cloud, Service Cloud, Marketing Cloud, and Data Cloud, including validation rules, reports, dashboards, and security models. 
+• Deployment: Managed deployments using Change Sets, SFDX, and Git, ensuring smooth CI/CD and release management. 
+• Performance Optimization: Enhanced system performance by optimizing Apex logic, queries, and automation processes.
+
+EDUCATION
+---------
+Master of Computer Applications (MCA) – IMS Ghaziabad | 2019 – 2022
+Bachelor of Computer Applications (BCA) – M D College, Patna | 2015 – 2018
+
+CERTIFICATIONS
+-------------
+• Salesforce Certified Platform Developer I (PD1)  
+• Salesforce Certified Associate  
+• Salesforce Certified AI Associate  
+• Salesforce Certified AI Specialist  
+• Salesforce Agentforce Specialist (Certified)  
+• Big Data Analyst Certification
+
+PROJECTS
+--------
+Project: Piramal Realty
+Company Website: https://www.piramalrealty.com/
+Role: Salesforce Developer
+• Comprehensive Salesforce implementation using SFDC, SFMC, and Agentforce for real estate CRM
+• Developed LWC and Visualforce components for dynamic UI and enhanced user experience 
+• Implemented Agentforce (Agent Actions, Topics, Flows) for AI-driven case handling and automation 
+• Built Apex classes, Triggers, Batch Apex, and Schedulers for business logic and process automation 
+• Improved UI responsiveness and reduced load time by ~25% via LWC optimization.
+• Designed and executed SFMC campaigns (Journey Builder, Email Studio, Automation Studio) 
+• Integrated SFDC, SFMC, and Experience Cloud using REST/SOAP APIs for real-time data flow 
+• Utilized Salesforce Data Cloud and Prompt Builder for unified data and AI automation 
+• Implemented Flows, Validation Rules, and Approval Processes to streamline operations 
+• Developed document generation solutions (S-Docs, PDF Butler) 
+• Optimized SOQL queries, improving system performance by ~30%, Apex performance, and automation processes
+
+Project: Bajaj Auto Credit Finance (BACFL)
+Company Website: https://www.bajajautocredit.com/
+Role: Salesforce Developer
+Description: Worked as a Salesforce Developer on Bajaj Auto Credit Finance Limited (NBFC) project, designing and implementing an IT HelpDesk solution on Experience Cloud (Partner Portal) using Salesforce CRM (SFDC) and Agentforce. Built scalable and secure solutions integrating Sales Cloud (Opportunity/Loan objects), enabling automated request handling, OTP-based authentication, and AI-driven case management.
+• Developed IT HelpDesk solution on Experience Cloud (Partner Portal) using Salesforce CRM (SFDC). 
+• Built LWC and Visualforce components for dynamic UI and request handling. 
+• Reduced ticket handling time by ~30% through automated workflows and Agentforce.
+• Implemented Agentforce (Agent Actions, Topics) to automate case creation and support workflows. 
+• Developed Apex, Triggers, and Flows for business logic and process automation. 
+• Integrated Sales Cloud (Opportunity/Loan objects) with HelpDesk system for seamless data flow. 
+• Designed secure OTP authentication system with validation, retry logic, and encryption. 
+• Created custom actions, validation rules, and email templates to enhance automation and user experience.
+
+Project: QRC Valves–SDR Agent Implementation
+Role: Agentforce Developer
+Description: QRC Valves is a global industrial valve distributor. Developed a Salesforce SDR Agent to automate Account, Contact, and Opportunity management, streamline follow-ups, provide FAQ responses, and enhance Inside Sales efficiency.
+Technologies: Salesforce (Sales Cloud, Agentforce, Triggers, Flows, Custom Actions, Custom Topics, Prompt Builder), PDF Knowledge Base, Email Templates, Opportunity/Task Management.
+Responsibilities: 
+• Implemented PDF-based FAQ responses and automated task creation for Inside Sales reps. 
+• Configured region-based quote filters (LATAM ≥ $20K, others ≥ $50K) and automated 2-step nudge emails during business hours.
+• Increased follow-up efficiency by ~20% using automated nudges and task orchestration
+• Automated Opportunity stage updates (Closed Won/Lost) and logging of interactions
+• Ensured emails included quote numbers, optional PDF attachments, and generic agent signature.
+• Maintained visibility, reporting, and task management for follow-ups.
+
+Additional Projects / Contributions
+-----------------------------------
+Marketing Automation Use Case (SFMC)
+• Designed customer journeys using Journey Builder with Email Studio for automated engagement 
+• Created segmented campaigns using Data Extensions and Contact Builder
+
+Agentforce AI Automation POC
+• Built a basic Agentforce agent using Prompt Builder and Agent Actions 
+• Automated case creation and FAQ response handling using AI-driven workflows 
+
+Data Migration & Optimization (SFDC)
+• Performed data migration using Data Loader and SOQL 
+• Optimized Apex queries and Flows to improve performance and reduce execution time
+
+LANGUAGES
+----------
+• English (Native)
+• Spanish (Intermediate)
+• French (Basic)
+
+INTERESTS & HOBBIES
+------------------
+• Open-source contributions (maintainer of 3 popular GitHub projects)
+• Technical blogging (100+ articles on Medium and Dev.to)
+• Public speaking at local tech meetups
+• Photography and hiking
+• Chess and strategy games
+
+REFERENCES
+-----------
+Available upon request.
+
+Last Updated: April 2025
+=====================================
